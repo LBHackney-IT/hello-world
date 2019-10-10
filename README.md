@@ -1,2 +1,2 @@
 # hello-world
-GitHub Intro Acrivity
+GitHub Intro Activity
